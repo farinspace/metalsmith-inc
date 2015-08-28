@@ -29,7 +29,7 @@ Use the following in your `metalsmith.json` file (e.g. the defaults are displaye
 var inc = require('metalsmith-inc');
 metalsmith.use(inc({
   directory: "docs/partial",
-  pattern: "^require (.*)"
+  pattern: "^custom (.*)"
 }));
 ```
 
