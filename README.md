@@ -27,7 +27,6 @@ Use the following in your `metalsmith.json` file (e.g. the defaults are displaye
 
 ```javascript
 var inc = require('metalsmith-inc');
-
 metalsmith.use(inc({
   directory: "docs/partial"
 }));
