@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-inc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A metalsmith plugin to include partials.",
   "repository": "git@github.com:farinspace/metalsmith-inc.git",
   "main": "index.js",
